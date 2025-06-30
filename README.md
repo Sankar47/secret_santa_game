@@ -11,7 +11,7 @@ This Ruby-based Secret Santa game automates the pairing of participants such tha
 
 ### 1. Install Dependencies
 ```bash
-git clone https://github.com/yourusername/secret_santa_game.git
+git clone https://github.com/Sankar47/secret_santa_game.git
 cd secret_santa_game
 bundle install
 ```
